@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-       SpiralMatrix.testCase();
+       RemoveLinkedListElements.testCase();
     }
 
 
