@@ -2,8 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.iea
-LeetcodeTest.iml
+/.iea
+/LeetcodeTest.iml
 
 ### Eclipse ###
 .apt_generated
