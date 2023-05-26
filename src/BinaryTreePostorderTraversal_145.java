@@ -14,6 +14,5 @@ public class BinaryTreePostorderTraversal_145 {
     public List<Integer> postorderTraversal(TreeNode root) {
         traverse(root);
         return res;
-
     }
 }
